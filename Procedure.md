@@ -36,7 +36,7 @@ Futaba R6008SB
 
 [Physical Installation of PixHawk] (http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
 
-<img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
-
 [Calibration of the PixHawk] (http://ardupilot.org/rover/docs/apmrover-setup.html)
+
+<img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
 
