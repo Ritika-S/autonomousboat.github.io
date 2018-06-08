@@ -1,3 +1,5 @@
+<img src="\Images\boat diagram.png">
+
 ## **Boat Exterior & Interior**
 ### __Used: 3D Printed__
 
@@ -50,7 +52,7 @@ Futaba R6008SB
 <img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
 
 ## **Motor to PixHawk**
-### __Used: Blue Robotics T100 Thruster, Blue Robotics Basic ESC__
+### __Used: Blue Robotics T100 Thruster, Blue Robotics Basic ESC, OMNIBUS Flight Controller Board__
 
 
 
