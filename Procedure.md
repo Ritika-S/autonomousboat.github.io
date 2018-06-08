@@ -3,6 +3,7 @@
 
 The outer structure of the boat was 3D printed, to allow for quick prototyping and changes. Inorder to water proof the boat, 
 we used epoxy and tape to glue and hold down the pieces of the boat (epoxy can also be used as a waterproofing agent).
+
 [CAD files](https://www.dropbox.com/sh/irfmggc8k5queg0/AACh7eVSw1JcP0g08k7TlmTpa?dl=0)
 
 
@@ -34,7 +35,8 @@ Futaba R6008SB
 ## **Setting up the PixHawk**
 ### __Use APM Planner for MacOS and Mission Planner for Windows__
 
-[Physical Installation of PixHawk](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)   [Calibration of the PixHawk](http://ardupilot.org/rover/docs/apmrover-setup.html)
+[Physical Installation of PixHawk](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)   
+[Calibration of the PixHawk](http://ardupilot.org/rover/docs/apmrover-setup.html)
 
 <img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
 
