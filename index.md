@@ -1,3 +1,7 @@
+## Welcome to Autonomous boat
+
+We created a 3D printed autonomous boat to be used for oceanagraphic testing and recording of data. Stay tuned to learn about how we did it. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ritika-S/autonomousboat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
