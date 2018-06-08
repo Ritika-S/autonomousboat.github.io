@@ -34,9 +34,9 @@ Futaba R6008SB
 ## **Setting up the PixHawk**
 ### __Use APM Planner for MacOS and Mission Planner for Windows__
 
-[Physical Installation of PixHawk] (http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
+[Physical Installation of PixHawk](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
 
-[Calibration of the PixHawk] (http://ardupilot.org/rover/docs/apmrover-setup.html)
+[Calibration of the PixHawk](http://ardupilot.org/rover/docs/apmrover-setup.html)
 
 <img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
 
