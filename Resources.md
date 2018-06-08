@@ -1,5 +1,5 @@
-## **Boat Exterior & Interior**
-### __Used: 3D Printed__
+# **Boat Exterior & Interior**
+## __*Used: 3D Printed*__
 
 The outer structure of the boat was 3D printed, to allow for quick prototyping and changes. Inorder to water proof the boat, 
 we used epoxy and tape to glue and hold down the pieces of the boat (epoxy can also be used as a waterproofing agent).
@@ -7,8 +7,8 @@ we used epoxy and tape to glue and hold down the pieces of the boat (epoxy can a
 [CAD files](https://www.dropbox.com/sh/irfmggc8k5queg0/AACh7eVSw1JcP0g08k7TlmTpa?dl=0)
 
 
-## **Receiver to Pixhawk**
-### __Used: Futaba R617FS along with PPM encoder__
+# **Receiver to Pixhawk**
+## __*Used: Futaba R617FS along with PPM encoder*__
 
 We used a Futaba R617FS reciever to allow for remote control, but inorder to make it compatible with the PixHawk we added a PPM
 encoder. Alternatively here are some pre-determined compatible S.Bus devices: FrSky X8R, FrSky XSR, Futaba R2008SB, 
@@ -17,8 +17,8 @@ Futaba R6008SB
 <img src="\Images\Screen Shot 2018-06-07 at 1.55.16 PM.png">
 
 
-## **Receiver to Radio Transmitter**
-### __Used: Futaba R617FS and Futaba T7C__
+# **Receiver to Radio Transmitter**
+## __*Used: Futaba R617FS and Futaba T7C*__
 
 **1.**	Connect the R617FS to a power source (4.8V or 6.0V battery source), by using pins 7/8
 
@@ -43,8 +43,8 @@ Futaba R6008SB
   - Use the oscilloscope to measure the electrical signal between the signal cable of the PPM signal (orange) and a               grounded source 
 
 
-## **Setting up the PixHawk**
-### __Use APM Planner for MacOS and Mission Planner for Windows (Prefered)__
+# **Setting up the PixHawk**
+## __*Use APM Planner for MacOS and Mission Planner for Windows (Prefered)*__
 
 [Physical Installation of PixHawk](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html) 
 
@@ -52,8 +52,14 @@ Futaba R6008SB
 
 <img src="\Images\Screen Shot 2018-06-07 at 1.55.09 PM.png">
 
-## **Motor to PixHawk**
-### __Used: Blue Robotics T100 Thruster, Blue Robotics Basic ESC, OMNIBUS Flight Controller Board__
+# **Motor to PixHawk**
+## __*Used: Blue Robotics T100 Thruster, Blue Robotics Basic ESC, OMNIBUS Flight Controller Board*__
+
+### Motor to ESCs 
+
+### ESCs to Flight Controller Board
+
+
 
 
 
