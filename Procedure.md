@@ -1,6 +1,3 @@
-
-<img src="\Images\boat diagram.png">
-
 ## **Boat Exterior & Interior**
 ### __Used: 3D Printed__
 
