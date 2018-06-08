@@ -56,7 +56,7 @@ Futaba R6008SB
 ## __*Used: Blue Robotics T100 Thruster, Blue Robotics Basic ESC, OMNIBUS Flight Controller Board*__
 
 ### Motor to ESCs 
-<img src="\Images\esc_diagram.png">
+<img src="\Images\Screen Shot 2018-06-08 at 2.17.49 PM.png">
 
 ### ESCs to Flight Controller Board
 
