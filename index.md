@@ -8,4 +8,5 @@ The goal of this vehicle is to serve both as an outreach tool for robotics event
 
 
 
+
 <img src="\Images\IMG_3460.JPG">
