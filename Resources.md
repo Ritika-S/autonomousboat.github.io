@@ -31,15 +31,12 @@ Futaba R6008SB
 **4.**	The R617FS LED light should be blinking a green light, to indicate that it senses the presence of a transmitter nearby
 
 **5.**	To pair the transmitter to the receiver take a screwdriver and press the button located between 2 coaxial antenna cables
-
   - Press the button for approximately 2 seconds, during this time the LED light should momentarily turn red
-
   - Once you have stopped pressing the button the LED light should turn to a solid green light, indicating that the 
             radio transmitter and the receiver are now paired
 
 **6.**	You can either check that they are paired by using a servo plugged into pin 4, or by measuring the change in    
         electrical signal when we use the transmitter
-
   - Use the oscilloscope to measure the electrical signal between the signal cable of the PPM signal (orange) and a               grounded source 
 
 
