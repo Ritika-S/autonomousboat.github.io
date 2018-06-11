@@ -54,8 +54,12 @@ Futaba R6008SB
 ### Motor to ESCs 
 <img src="\Images\Screen Shot 2018-06-08 at 2.38.28 PM.png">
 
+
+
 ### ESCs to Flight Controller Board
 <img src="\Images\esc.jpg">
+
+
 
 ### ESCs to PixHawk 
 <img src="\Images\esc2pixhawk.png">
