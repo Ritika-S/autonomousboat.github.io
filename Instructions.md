@@ -6,7 +6,7 @@
 4. Connect the motors to the ESCs and mount the motors in place, by gluing them to the base of the hull.
     - To clean up the boat, we glued the wires connecting the ESCs to the Motors to the sides of the boat hull using hot glue
 5. Solder the power cables of the ESCs (thick red and black cables) onto the the power monitoring board, as shown in the resources section.
-6. Connect the other 3 wires left on the ESCs to the PixHawk. The right motor should go into pin3 and the left motor to pin1.
+6. Connect the other 3 wires left on the ESCs to the PixHawk. The right motor should go into pin 3 and the left motor to pin 1.
 7. Connect the PPM Encoder to the Futaba R617FS as detailed in the resources section, and then connect the PPM encoder to the PixHawk as shown in the same. 
 8. Physically connect the PixHawk and its components as shown by the links in the resources section.
 9. Link up the Futaba reciever to your transmitter (in resources section).
