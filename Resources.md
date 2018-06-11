@@ -21,7 +21,6 @@ Futaba R6008SB
 ## __*Used: Futaba R617FS and Futaba T7C*__
 
 **1.**	Connect the R617FS to a power source (4.8V or 6.0V battery source), by using pins 7/8
-
   - Keep the Radio Transmitter off
 
 **2.**	The R617FS LED light should be a red color, indicating the that there is no radio transmitting nearby
