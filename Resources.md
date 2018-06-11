@@ -56,3 +56,6 @@ Futaba R6008SB
 
 ### ESCs to Flight Controller Board
 
+### ESCs to PixHawk 
+
+
