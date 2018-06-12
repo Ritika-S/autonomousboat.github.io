@@ -6,16 +6,17 @@
 4. Connect the motors to the ESCs and mount the motors in place, by gluing them to the base of the hull.
    - To clean up the boat, we glued the wires connecting the ESCs to the Motors to the sides of the boat hull using hot glue
 5. Solder the power cables of the ESCs (thick red and black cables) onto the the power monitoring board, as shown in the resources section.
-6. Connect the other 3 wires left on the ESCs to the PixHawk. The right motor should go into pin 3 and the left motor to pin 1.
-7. Connect the PPM Encoder to the Futaba R617FS as detailed in the resources section, and then connect the PPM encoder to the PixHawk as shown in the same. 
-8. Physically connect the PixHawk and its components as shown by the links in the resources section.
-9. Link up the Futaba reciever to your transmitter (in resources section).
-10. Install Mission Planner (preferred) onto a laptop or desktop.
-11. Configure the PixHawk using Mission Planner
+6. Connect the RC power controller boad to the current controller, and connect the current controller to the PixHawk's 'power' pins. 
+7. Connect the other 3 wires left on the ESCs to the PixHawk. The right motor should go into pin 3 and the left motor to pin 1.
+8. Connect the PPM Encoder to the Futaba R617FS as detailed in the resources section, and then connect the PPM encoder to the PixHawk as shown in the same. 
+9. Physically connect the PixHawk and its components as shown by the links in the resources section.
+10. Link up the Futaba reciever to your transmitter (in resources section).
+11. Install Mission Planner (preferred) onto a laptop or desktop.
+12. Configure the PixHawk using Mission Planner
     - Calibrate the compass, accelerometer, GPS etc usuing the links provided.
-12. Connect the PixHawk to the boat by using the same velcro method as that of the battery. 
-13. Hot glue the other PixHawk components onto the hull of the boat as shown in the pictures. 
-14. Print out the latch pieces given in the drop box.
-15. Glue the top and bottom parts of the latch mechanism to the top and bottom parts of the boat respectively.
+13. Connect the PixHawk to the boat by using the same velcro method as that of the battery. 
+14. Hot glue the other PixHawk components onto the hull of the boat as shown in the pictures. 
+15. Print out the latch pieces given in the drop box.
+16. Glue the top and bottom parts of the latch mechanism to the top and bottom parts of the boat respectively.
     - Make sure to align latch components, as the mechanism wont work if the two are not aligned.
-16. Latch the top cover of the boat to the hull, turn on your transmitter, and your boat is ready to go!
+17. Latch the top cover of the boat to the hull, turn on your transmitter, and your boat is ready to go!
