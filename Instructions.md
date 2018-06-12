@@ -7,7 +7,7 @@
 **3.** Connect the battery to the base of the boat. We used a velcro suface and first glued one side of it to the boat and the other to the bottom of the battery. Then we just connected the two sides of the velcro. 
 
 **4.** Connect the motors to the ESCs and mount the motors in place, by gluing them to the base of the hull.
-    - To clean up the boat, we glued the wires connecting the ESCs to the Motors to the sides of the boat hull using hot glue
+            - To clean up the boat, we glued the wires connecting the ESCs to the Motors to the sides of the boat hull using hot glue
 
 **5.** Solder the power cables of the ESCs (thick red and black cables) onto the the power monitoring board, as shown in the resources section.
 
@@ -22,7 +22,7 @@
 **10.** Install Mission Planner (preferred) onto a laptop or desktop.
 
 **11.** Configure the PixHawk using Mission Planner
-        - Calibrate the compass, accelerometer, GPS etc usuing the links provided.
+            - Calibrate the compass, accelerometer, GPS etc usuing the links provided.
 
 **12.** Connect the PixHawk to the boat by using the same velcro method as that of the battery. 
 
@@ -31,6 +31,6 @@
 **14.** Print out the latch pieces given in the drop box.
 
 **15.** Glue the top and bottom parts of the latch mechanism to the top and bottom parts of the boat respectively.
-        - Make sure to align latch components, as the mechanism wont work if the two are not aligned.
+            - Make sure to align latch components, as the mechanism wont work if the two are not aligned.
 
 **16.** Latch the top cover of the boat to the hull, turn on your transmitter, and your boat is ready to go!
