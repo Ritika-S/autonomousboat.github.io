@@ -13,10 +13,12 @@
 10. Link up the Futaba reciever to your transmitter (in resources section).
 11. Install Mission Planner (preferred) onto a laptop or desktop.
 12. Configure the PixHawk using Mission Planner
-    - Calibrate the compass, accelerometer, GPS etc usuing the links provided.
+    - Calibrate the compass, accelerometer, GPS etc using the links provided.
+    - Set the motors (1 & 3) to Throttle Left and Throttle Right respectively.
 13. Connect the PixHawk to the boat by using the same velcro method as that of the battery. 
 14. Hot glue the other PixHawk components onto the hull of the boat as shown in the pictures. 
-15. Print out the latch pieces given in the drop box.
+15. Print out the latch pieces given in the drop box. Place the 5/16-18 bolts in their locations within the latch.
+16. Using a solder iron, heat up 5/16-18 bolts, gently pressing them into the 3D printed latch to secure their place.
 16. Glue the top and bottom parts of the latch mechanism to the top and bottom parts of the boat respectively.
     - Make sure to align latch components, as the mechanism wont work if the two are not aligned.
 17. Latch the top cover of the boat to the hull, turn on your transmitter, and your boat is ready to go!
